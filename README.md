@@ -9,7 +9,9 @@
 
 - 📚 I’m currently learning **C++ and Rust**
 
-- 🌱 I’m currencly imporiving my **Concurrency and Parallelism concepts**
+- 🌱 I’m currencly practicing **Memory Ordering, Concurrency, and Parallelism concepts**
+
+- 🤔 I’m currencly interested in **OpenGL, Vulkan, and GLSL Shaders**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mouEsam](https://github.com/mouEsam)
 
