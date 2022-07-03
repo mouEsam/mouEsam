@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouesam" alt="mouesam" /></a> </p>
 
-- 🔭 I’m currently working on **Attaa**
+- 🔭 I’m currently working on **Maqare**
 
 - 📚 I’m currently learning **C++ and Rust**
 
