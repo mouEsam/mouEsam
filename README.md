@@ -28,7 +28,7 @@
 </p>
 
 <a href="https://www.paypal.com/paypalme/moustafaessam">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 41px !important"/>
 </a>
 
 
