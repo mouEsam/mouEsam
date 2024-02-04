@@ -27,7 +27,9 @@
 <a href="https://instagram.com/mostafaessam_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafaessam_me" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.paypal.com/paypalme/moustafaessam" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.paypal.com/paypalme/moustafaessam">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
